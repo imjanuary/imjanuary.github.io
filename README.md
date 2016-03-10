@@ -1,1 +1,1 @@
-<h1 link="http://imjanuary.github.io";><b>imjanuary</b></h1>
+<h1><b>Design Work Shop</b></h1>
