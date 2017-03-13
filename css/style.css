@@ -608,7 +608,7 @@ a:hover, a:active, a:focus {
 footer {
     background-color: #eeeeee;
     border-top: 1px solid #f0f0f0;
-    padding: 100px 0px;
+    padding: 80px 0px;
     position: relative;
 }
 
@@ -621,7 +621,7 @@ footer a {
 }
 
 footer hr {
-  border-color: #ffffff;
+  border-color: #dcdcdc;
   margin-top: 42px;
   margin-bottom: 22px;
 }
